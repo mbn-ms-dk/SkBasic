@@ -1,0 +1,2 @@
+# SkBasic
+Semantic Kernel playground
